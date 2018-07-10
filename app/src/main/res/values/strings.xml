@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name">Deep Dive SignIn App</string>
+  <string name="action_logout">Sign out</string>
+</resources>
